@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Meu nome é Cauã Henrique, <strong>Pretendo me tornar um Full-Stack Dev, mas por enquanto estou me aprofundando no Front-End! </strong>
+    Meu nome é Cauã Henrique, <strong>Procurando meu local, mas por enquanto estou me aprofundando no Front-End! </strong>
   </em>
 </p>
  
