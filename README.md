@@ -4,12 +4,13 @@
 
 <p>
   <em>
-    Meu nome é Cauã Henrique, <strong>Procurando meu local, mas por enquanto estou me aprofundando no Front-End! </strong>
+    Meu nome é Cauã Henrique, <strong>Procurando meu local! </strong>
   </em>
 </p>
  
- - 📚 Estudando Front-End com o Programa <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank"> Oracle Next Education </a>
-- 🚀 Atualmente aprimorando meus conhecimentos em <strong>JavaScript</strong>
+- 📚 Estudando Front-End com o Programa <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank"> Oracle Next Education </a>
+- 📚 Estudando Python com cursos variados do Udemy.
+- 🚀 Atualmente aprimorando meus conhecimentos em <strong>JavaScript</strong> e <strong>Python</strong>.
 - 📫 Meu email: cauaferreirabarbosa@hotmail.com
 
 <br>
