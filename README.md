@@ -43,3 +43,5 @@
  </a><br><br>
 </div>
 
+![Snake animation](https://github.com/cauahfb/cauahfb/blob/output/github-contribution-grid-snake.svg)
+
