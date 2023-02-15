@@ -8,9 +8,7 @@
   </em>
 </p>
  
-- 📚 Estudando Front-End com o Programa <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank"> Oracle Next Education </a>
-- 📚 Estudando Python com cursos variados do Udemy.
-- 🚀 Atualmente aprimorando meus conhecimentos em <strong>JavaScript</strong> e <strong>Python</strong>.
+- 🚀 Trabalhando como Engenheiro de Testes Jr.
 - 📫 Meu email: cauaferreirabarbosa@hotmail.com
 
 <br>
