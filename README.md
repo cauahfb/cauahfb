@@ -16,7 +16,7 @@
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,csharp"></img>
+  <img src="https://skillicons.dev/icons?i=cs,js,python,git"></img>
 </div>
   
 <br>
