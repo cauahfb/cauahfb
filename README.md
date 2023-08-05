@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Meu nome é Cauã Henrique, <strong>Procurando meu local! </strong>
+    Meu nome é Cauã Henrique, <strong>Me especializando cada dia mais em como ser um Q.A </strong>
   </em>
 </p>
  
@@ -16,7 +16,7 @@
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,c#"></img>
 </div>
   
 <br>
@@ -40,6 +40,3 @@
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a><br><br>
 </div>
-
-![Snake animation](https://github.com/cauahfb/cauahfb/blob/output/github-contribution-grid-snake.svg)
-
