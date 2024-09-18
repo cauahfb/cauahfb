@@ -23,8 +23,6 @@
 
 ## 📈 Estatísticas
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=cauahfb&show_icons=true&theme=merko"></img>
-
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauahfb&layout=compact&theme=merko"></img>
 
 ##  Conecte comigo
